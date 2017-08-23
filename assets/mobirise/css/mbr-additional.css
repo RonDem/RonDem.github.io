@@ -1770,3 +1770,17 @@ body {
     -webkit-justify-content: center;
   }
 }
+.cid-qtabQdpdLd {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-qtabQdpdLd h1 {
+  color: #616161;
+}
+.cid-qtabQdpdLd h2,
+.cid-qtabQdpdLd h3,
+.cid-qtabQdpdLd p {
+  color: #767676;
+}
+.cid-qtabQdpdLd .mbr-section-subtitle {
+  font-style: italic;
+}
